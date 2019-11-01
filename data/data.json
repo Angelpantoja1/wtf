@@ -1,0 +1,213 @@
+
+{
+    "students": [
+        {
+            "firstName" : "Abraham",
+            "lastName" : "Lopez",
+            "nickname" : "Abe",
+            "email" : "abelopezjr1992@gmail.com",
+            "slack" : "Abraham Lopez",
+            "contacts" : "slack",
+            "hobbies" : "Manga"
+        },
+        {
+            "firstName" : "Alex",
+            "lastName" : "Her",
+            "nickname" : "Alex",
+            "email" : "alexher209@gmail.com",
+            "slack" : "Alex Her",
+            "contacts" : "slack",
+            "hobbies" : "Gaming"
+        },
+        {
+            "firstName" : "Bisola",
+            "lastName" : "Awujoola",
+            "nickname" : "Bisolaj",
+            "email" : "bisolaj@yahoo.com",
+            "slack" : "Bisola Awujoola",
+            "contacts" : "slack",
+            "hobbies" : "Chess"
+        },
+        {
+            "firstName" : "Carson",
+            "lastName" : "Huber",
+            "nickname" : "Cars",
+            "email" : "carsonmyselvs@gmail.com",
+            "slack" : "EcstaticCarson",
+            "contacts" : "slack",
+            "hobbies" : "Gaming"
+        },
+        {
+            "firstName" : "Carter",
+            "lastName" : "Galvez",
+            "nickname" : "Carter",
+            "email" : "cartermeme209@gmail.com",
+            "slack" : "carter209cg",
+            "contacts" : "slack",
+            "hobbies" : "Gaming"
+        },  
+        {
+            "firstName" : "David",
+            "lastName" : "Abdallah",
+            "nickname" : "Dave",
+            "email" : "duende5801@gmail.com",
+            "slack" : "DaveDaAverageDude",
+            "contacts" : "slack",
+            "hobbies" : "Work"
+        },
+        {
+            "firstName" : "Deon",
+            "lastName" : "Simmons",
+            "nickname" : "Deon",
+            "email" : "maaoruzketo13@gmail.com",
+            "slack" : "Deon",
+            "contacts" : "slack",
+            "hobbies" : "Dokkan"
+        },
+        {
+            "firstName" : "Estaban",
+            "lastName" : "Zaragoza",
+            "nickname" : "uB",
+            "email" : "esteban.zaragoza26@gmail.com",
+            "slack" : "Estaban Z",
+            "contacts" : "slack",
+            "hobbies" : "Gaming"
+        },
+        {
+            "firstName": "Fransisco",
+           "lastName": "Chavez",
+           "nickname": "Frankie",
+           "email": "fjchavez@outlook.com",
+           "slack": "Fransisco",
+           "contacts": "Slack",
+           "hobbies": "Reading"
+        },
+        {
+            "firstName" : "Johnny",
+            "lastName" : "Uribe",
+            "nickname" : "Johnny",
+            "email" : "jzuliek@gmail.com",
+            "slack" : "Johnny U",
+            "contacts" : "slack",
+            "hobbies" : "Long Walks On The Beach and for Loops"
+        },
+        {
+            "firstName" : "Jonathon",
+            "lastName" : "Stewart",
+            "nickname" : "Jon",
+            "email" : "jstewart3800@gmail.com",
+            "slack" : "Jon Stewart",
+            "contacts" : "slack",
+            "hobbies" : "Gaming"
+        },
+        {
+            "firstName" : "Jose",
+            "lastName" : "Martinez",
+            "nickname" : "Jose",
+            "email" : "josemartinez8282@gmail.com",
+            "slack" : "Jose",
+            "contacts" : "slack",
+            "hobbies" : "Gaming"
+        },
+        {
+            "firstName" : "Joseangel",
+            "lastName" : "Pantoja",
+            "nickname" : "Angel",
+            "email" : "angelpantoja27@gmail.com",
+            "slack" : "Angel",
+            "contacts" : "slack",
+            "hobbies" : "Borderland3"
+        },
+        {
+            "firstName" : "Joseph",
+            "lastName" : "Perez",
+            "nickname" : "Jo",
+            "email" : "joseph.perez013@gmail.com",
+            "slack" : "Joseph",
+            "contacts" : "slack",
+            "hobbies" : "Gaming"
+        },
+        {
+            "firstName" : "Kevin",
+            "lastName" : "Caballero",
+            "nickname" : "Cab",
+            "email" : "kev1ncabb@gmail.com",
+            "slack" : "Kevin_Cab",
+            "contacts" : "slack",
+            "hobbies" : "Basketball"
+        },   
+        {
+            "firstName" : "Kurt",
+            "lastName" : "Nipkau",
+            "nickname" : "leg",
+            "email" : "kurtnipkau@gmail.com",
+            "slack" : "Leg",
+            "contacts" : "slack",
+            "hobbies" : "Trolling"
+        },
+        {
+            "firstName" : "Lourn",
+            "lastName" : "Selga",
+            "nickname" : "Lrrrn",
+            "email" : "lournselga@gmail.com",
+            "slack" : "Lourn",
+            "contacts" : "slack",
+            "hobbies" : "Model Building"
+        },
+        {
+            "firstName" : "Nayo",
+            "lastName" : "Ortiz",
+            "nickname" : "Ny",
+            "email" : "ortiznayo915@gmail.com",
+            "slack" : "Nayito",
+            "contacts" : "slack",
+            "hobbies" : "Drawing"
+        },
+        {
+            "firstName" : "Nimish",
+            "lastName" : "Lal",
+            "nickname" : "Nimish",
+            "email" : "nimishlal96@gmail.com",
+            "slack" : "Nimish Lal",
+            "contacts" : "slack",
+            "hobbies" : "Swimming"
+        },
+        {
+            "firstName" : "Robert",
+            "lastName" : "Burns",
+            "nickname" : "Rob",
+            "email" : "robertburns316@gmail.com",
+            "slack" : "Robert Burns",
+            "contacts" : "slack",
+            "hobbies" : "Airsoft"
+        },
+        {
+            "firstName" : "Stephanie",
+            "lastName" : "Singh",
+            "nickname" : "Steph",
+            "email" : "singh_stephaniee@hotmail.com",
+            "slack" : "Stephanie Singh",
+            "contacts" : "slack",
+            "hobbies" : "Sleeping"
+        },   
+        {
+            "firstName" : "Trever",
+            "lastName" : "Edwards",
+            "nickname" : "Ted",
+            "email" : "trever.edwards1218@gmail.com",
+            "slack" : "Trever",
+            "contacts" : "slack",
+            "hobbies" : "Gaming"
+        },
+        {
+
+            "firstName" : "Zachary",
+            "lastName" : "Davis",
+            "nickname" : "Wynan",
+            "email" : "zdavis1676@gmail.com",
+            "slack" : "Zach Davis",
+            "contacts" : "slack",
+            "hobbies" : "Gaming"
+        }  
+    ]
+}

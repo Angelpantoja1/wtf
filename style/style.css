@@ -1,0 +1,72 @@
+.welcome{
+    display: flex;
+    justify-content: center;
+    border: 10rem purple dashed;
+    color: white;
+}
+
+.img{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.csb{
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+    background-image: url("../image/csb.png");
+    /* Set a specific height */
+    height: 100%;
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.bgc{
+    background-color: grey;
+}
+.con{
+    background-color: white;
+}
+p{
+    font-size: 50px;
+}
+.p{
+    color: white;
+}
+.right{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.right .row {
+    margin-bottom: 30px;
+}
+.p1{
+    color: purple;
+}
+
+.purple{
+    background-color: purple;
+}
+.green{
+    background-color: green;
+}
+.black{
+    background-color: black;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple1{
+    color: purple;
+}
+.green1{
+    color: green;
+}
+.black1{
+    color: black;
+}
+.yellow1{
+    color: yellow;
+}
